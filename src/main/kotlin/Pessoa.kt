@@ -1,7 +1,7 @@
 class Pessoa {
     var nome: String = "João"
     var cpf: String = "123.456.789-10"
-    private set
+        private set
 }
 
 fun main() {
