@@ -6,6 +6,7 @@ class Pessoa {
 
 fun main() {
     val joao = Pessoa()
+
     println(joao.nome)
     println(joao.cpf)
 }
